@@ -1,0 +1,1170 @@
+#EXTM3U
+#EXTINF:0,V cine
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/playlist_1080p.m3u8
+#EXTINF:0,V cửu long
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8%20
+#EXTINF:0,V đồng bào
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/vung-cao/playlist_1080p.m3u8
+#EXTINF:0,tv360 +1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/y8kfwlpg5oecee9wx5x95/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?tv360%E2%81%BA%C2%B9%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=tteedd1eppj76jdd30k12jojm%20
+#EXTINF:0,tv360 +2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/pq1fisdke6fz62l9m6cl1/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?tv360%E2%81%BA%C2%B2%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=bpq29loehkyrvijwekbw67ajm%20
+#EXTINF:0,tv360 +3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/6jqui6589e62du12gtg15/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?tv360%E2%81%BA%C2%B3%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=cte2jlfczi6zz0fxjbj1wn3pk%20
+#EXTINF:0,tv360 +4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/sbyu2ta5wnca548cka9be/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?tv360%E2%81%BA%E2%81%B4%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=ufy66cdegzyhregs57jinznn1%20
+#EXTINF:0, ㅤ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/92szljcz6bghuh4jnzmga/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?live%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=35usjw1mltsi94my815p04a5a%20
+#EXTINF:0,Live 01
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8%20
+#EXTINF:0,Live 02
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8%20
+#EXTINF:0,Live 03
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8%20
+#EXTINF:0,Live 04
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8%20
+#EXTINF:0,Live 05
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8%20
+#EXTINF:0,Live 06
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8%20
+#EXTINF:0,Live 07
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8%20
+#EXTINF:0,Live 08
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/Z2FHD/playlist.m3u8%20
+#EXTINF:0,Live 09
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8%20
+#EXTINF:0,Live 10
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8%20
+#EXTINF:0,Live 11
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/cayFHD/playlist.m3u8%20
+#EXTINF:0,Live 12
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8%20
+#EXTINF:0,Live 13
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may111/chunklist.m3u8%20
+#EXTINF:0,Live 14
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8%20
+#EXTINF:0,Live 15
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8%20
+#EXTINF:0,VTV1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/pk0ijhdit0q280c/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv1%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/c7lplr1ke566zsr/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv2%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ylb7my8but2ccwd/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv3%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/f1adpmzxclche14/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv4%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV5
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/dbbao3l4g5lixbx/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv5%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV5 •TN
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/x8952mvr7r6l15v/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtvtn%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV5 •TNB
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ztuh55x09yybw40/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtvtnb%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV6 •CT
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/0mdi9d3mk1movxm/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv6%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV7
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/f3gaq8dhsbnlyut/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv7%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ywjkllkz5d85276/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv8%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTV9
+#EXTVLCOPT:http-referer=https://sctvonline.vn/
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/2nse801wb2pmd0f/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtv9%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://coca.dl.dropboxusercontent.com/s/iszhntq0cwonhl4/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc1%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/20rt3tupp2g2xbk/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc2%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/vjllzzbzhwztecu/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc3%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/  
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/hky4ud4eq59ksmqkfljj1/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc4%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=6jcom5rd4daq55ubpswu65i51%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC5
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/rd7b3wemupc2bvu5v2ve1/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc5%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=kcd2u2t93shvisape0tk8m2g0%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC6
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/undt7n8y3030y6ej0zqyo/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc6%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=qs5evhgghd3o92ghym8b8boqh%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC7
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/sj9iebonyidlviihzi7q1/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc7%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=kv38rwpjw3eul6dfrj29f18ek%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/fqhlzd6vfaqhna6ppfhb5/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc8%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=8s46fi4llad51mx9r0s7f5jnj%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC9
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/j4w0dti77uk3zo7s6qj9w/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc9%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=mtwutvfwyirvkzsazdd01nm99%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC10
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wl82x9ssy704eogwh7uaz/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc10%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=6p0bthowjpvcox3ca5fdc3c8b%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC11
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://coca.dl.dropboxusercontent.com/s/6xsqeejktchpoyn5wsxjk/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc11%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=wcm31dhfjgxuqvmu5fbyrkzer%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC12
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ewjb8lrjlub4c7ype6ivt/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc12%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=f0ar950721168pm5zwlibhioa%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC13
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ff2uaiv2kvib64v/%20%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%E3%85%A4?vtc13%20%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC14
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/o0fffew1g8ac9br/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc14%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,VTC16
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/kq8nkhvgjfpecgo/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?vtc16%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/e5ou3m2t7e6isf78rf7iw/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?htv1%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20&rlkey=k93ijomk95fs41vfglft68h0l%20
+#EXTINF:0,HTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/zvvz2ue7oylapg3/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?htv2%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1duii5qorjwy6qm/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20?htv3%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/9zx4rfvjecqzlxu/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?htv4%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV7
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/f66ggfxnbbtdqk1/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?htv7%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV9
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?htv9%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HTV Thể Thao 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/6hvzywgjc1qkc8osjg884/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.thethao%20%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=2idwtfxilqm6r4ysa59d0i0bx%7CReferer=https://sctvonline.vn/%20%20
+#EXTINF:0,HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/2hhvmg25xwiwzxgdc9tlb/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.thuanviet%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=zcdvs8xw7l9dqk8opp3tbpp6w%20
+#EXTINF:0,HTVC Phim
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/mdbqfwl7gbzlhunavxok9/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.phim%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=a69e6rkyrah4s35k4ty9q2pzt%20
+#EXTINF:0,HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/m0rdoufmlcnxeaok7ruzz/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.phunu%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=8bzfg1uduspjiznfmmhmqujaa%20
+#EXTINF:0,HTVC Plus
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/q6h69nlay2k4oi0e7oqup/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.plus%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=2yk61ib0n6zs92pbnv0cfbdie%20
+#EXTINF:0,HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/cu4xzq63b7sojkigiadtc/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.canhac%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=g1lh5ka6k5ogwmgkexziei6pu%20
+#EXTINF:0,HTVC Du Lịch
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/lcqmo3q64lcit6lso8gz6/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.dulich%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=3pdeb5t34ct2uom9cim0falfu%20
+#EXTINF:0,HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/7v37dizvj9v1gdl0tsnea/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.giadinh%20%09%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=5blk5clvzfkejw1wso9d5ipfz%20
+#EXTINF:180,Vcab1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/xpui148aitwka7s/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab1%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/l1bm8moxpu0bvrk/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab2%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab3 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/iiishttps?//coca=dl.dropboxusercontent.com/s/2zmhpu8q5a7igie/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?cab3%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/3rqo5jucetkmiof/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab4%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab5
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1w9mbfwm42gn3bb/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?cab5%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab6 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/vishttps?//coca=dl.dropboxusercontent.com/s/izkhwf75hnzmhfn/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?cab6%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab7
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/bn5o9641wty2nww/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab7%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/e5ucgk3xlffmsxm/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab8%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab9
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/44s2f7849wmvws1/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab9%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab10
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/rqdswfbl6ubpnqv/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab10%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab12
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/pvrctluxtza0uzg/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab12%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab15
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/psjhl8njhsni8bq/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?cab15%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab16 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/126xvw4vvmz14s2/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab16%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab17
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ybzjc6pnw1ouh52/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?cab17%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab18 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/xviiishttps?//coca=dl.dropboxusercontent.com/s/ul2fuakuvuax9pz/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab18%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7C%20
+#EXTINF:0,Vcab19
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/9hrxpvyp9v50xfu/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab19%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab20
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/mvpcdcdy6yj3n22/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Vcab21
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/cab21shttps?//coca=dl.dropboxusercontent.com/s/nd0bi1wlt6jigkq/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab21%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7C%20
+#EXTINF:0,Vcab22
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/cab22shttps?//coca=dl.dropboxusercontent.com/s/j9kcf9xpzcuuje0/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab22%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7C%20
+#EXTINF:0,Vcab23 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/xxiiishttps?//coca=dl.dropboxusercontent.com/s/g8fec2h20wzppxd/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cab23%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7C%20
+#EXTINF:0,ON Sports Action
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1  #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/9mb7vq0hevodo8g/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?btv5%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/0jvtidm2959iex4dt2e21/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv1%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=ertkzis2yqrmo6kr3p6savzoq%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/4974xmvfcwcgwyc0i5gpo/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv2%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=8kdejfsqar996kv7qautbhk4t%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/c55t1bell3b1s97oszj9a/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv3%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=f2kmfnocfjfgvd1a7gdpl0wdi%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/km7cjwxjwjzkyh5mnx62u/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv4%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=xn8sgwdtzpjklwmjinu3zj5yj%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV5
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wrofz1q0zj1j982zag110/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv5%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=568xsie0eimg483uy8uk2s9w7%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV6
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/o5fl3l5bma92ihbpfl0d5/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv6%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=stxiemsybum7uertd5gf2vdpl%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV7
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/6b8pqko3qwp0x3h3niidc/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv7%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=0wp9xwbuyc7uwn8nx6m73bx0p%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV8
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/hykn6ri6oyydo9j7uzn79/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv8%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=8mhqusdtnn7t5cf3gpkbe10u2%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV9
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/t0in7cayh3dpyrhs2roy2/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv9%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=0o2kmtjl48lm3mofftqnsnpth%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV10
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/pkfysf3z6x9t40lotxsp3/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv10%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=3j9dpg1rv9ym8h22lhs5e0wcw%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV11
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/qloldl5e3ku6nszf5ss9q/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv11%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=o0t443nlfovjus10mc8ripku3%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV12
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/s2fu1k048k9iaalwi973c/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv12%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=icqq9lhtxcvxpns1yku66vs8m%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV13
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/5waw3taixtseyvt2ajjoe/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv13%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=li1eb9e595ev6l5x874h2e9fw%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV14
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/q7821y2kn6kyd4u1mo299/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv14%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=1r5y7qygazs8enp41fk0xzdg0%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV15 📍²
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ws41mvmst85mofx4iro27/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv15%20%09%09%09%09%09%09%09%09%20%09%09%20&rlkey=svtiiclbeb7as4y5vadlfppki%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV16
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/jb8dwui3477ckxz0ft0yz/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv16%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=nhhenl1xaa2v05o2o1kj9iyv1%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV17 📍
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/p9xnve61unjomwgh07qdi/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv17%20%09%09%09%09%09%09%09%09%09%20%09%20&rlkey=kii2wj8qjyjw3x5m6rvms2vyx%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV18
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wfamtvqkeayk29h495hkk/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv18%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=c786cqdv02x7ryo8mkbcksq0j%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV19
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/osiywyttnsbmf821m4omq/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv19%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=zfqrzp8dncmvswjdyy4wezuql%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV20
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/itd0n548z2obkuo9ghoh4/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv20%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=cw3hmxz8lb8eqo7u9trgd4rwg%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV21
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/103g7991j3f9zdpukjsy8/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv21%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=lg6u4em0gr5xt0sb0jumq72rd%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV22 📍¹
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ykb1f51pffxhyyi6p4vrr/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctv22%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=7v0iifn6tm81nvvhy9s61j2sr%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,SCTV •PTH
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/xir7w4yye3hpr9ignjr5u/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?sctvPTH%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=mrxm5xiyf5z7ih5e9ss2ofp0g%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Quốc Hội TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8%20
+#EXTINF:0,Quốc Phòng TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_b996000_sleng.m3u8%20
+#EXTINF:0,An Ninh TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8%20
+#EXTINF:0,Nhân Dân TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://arpt.tvic.vn/live/nhandan720/chunklist_w736672654.m3u8
+#EXTINF:0,V.News TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:0,VOV TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#EXTINF:0,🇻 Vĩnh Long 1
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/1of9wrw271upco9/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?thvl1%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,ㅤ Vĩnh Long 2
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/wjvtjyo01o5ag3r/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?thvl2%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,ㅤ Vĩnh Long 3
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://gg.gg/vl3shttps?//coca=dl.dropboxusercontent.com/s/ha5nuaskb15y40j9pa16p/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?thvl3%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=eq7j7its2phh3zazvlc3uxgco%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,ㅤ Vĩnh Long 4
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://gg.gg/vl4shttps?//coca=dl.dropboxusercontent.com/s/2k0uo3bykvtcq5skzi4x7/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?thvl4%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=qmpiobfd73nk463883qtaauya%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,ㅤ Vĩnh Phúc
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/chunklist.m3u8%20
+#EXTINF:0,ㅤ Vũng Tàu
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.brt.vn:8081/live/tv2.stream/chunklist.m3u8%20
+#EXTINF:0,🇦 An Giang	
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8%20
+#EXTINF:0,🇧 Bến Tre
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://1012163901.vnns.net/bentre.adm.480p.tms/chunks.m3u8%20
+#EXTINF:0,ㅤ Bạc Liêu
+#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24
+https://tv.thbl.vn/live/tv/tv.m3u8%20
+#EXTINF:0,🇨 Cà Mau
+#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24
+http://tv.ctvcamau.vn/live/tv/tv.m3u8%20
+#EXTINF:0,ㅤ Cần Thơ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.canthotv.vn/live/tv_web/chunklist.m3u8%20
+#EXTINF:0,ㅤ Cao Bằng
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8%20
+#EXTINF:0,🇩 Đà Nẵng 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8%20
+#EXTINF:0,ㅤ Đà Nẵng 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8%20
+#EXTINF:0,ㅤ Đăk Lăk
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8%20
+#EXTINF:0,ㅤ Đăk Nông
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8%20
+#EXTINF:0,ㅤ Điện Biên
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni%20
+#EXTINF:0,ㅤ Đồng Nai 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/chunks.m3u8%20
+#EXTINF:0,ㅤ Đồng Nai 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_b1384000.m3u8%20
+#EXTINF:0,ㅤ Đồng Tháp 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8%20
+#EXTINF:0,ㅤ Đồng Tháp 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,🇭 Hà Nội 1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8%20
+#EXTINF:0,ㅤ Hà Nội 2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8%20
+#EXTINF:0,ㅤ Hà Nam
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hà Giang
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni%20
+#EXTINF:0,ㅤ Hà Tĩnh
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hải Dương
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni%20
+#EXTINF:0,ㅤ Hải Phòng
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.thhp.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hải Phòng+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hậu Giang
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hòa Bình
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8%20
+#EXTINF:0,ㅤ Huế
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.trt.com.vn/TRT-Online/chunklist.m3u8%20
+#EXTINF:0,ㅤ Hưng Yên
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.hungyentv.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8%20
+#EXTINF:0,🇾 Yên Bái
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.yenbaitv.org.vn/hls/livestream.m3u8%20
+#EXTINF:0,ariang
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8%20
+#EXTINF:0,KBS World
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8%20
+#EXTINF:60,NHK World
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://bmcc.nhkworld.jp/live/index_1M.m3u8
+#EXTINF:0,AFN
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/8mmg3p2r9e01mo8/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?afn%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/bbjqmb7qhz82n0qex2qqb/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?tlc%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=aqf0b4dg9bja5xccm3ax7gqxe%20
+#EXTINF:0,HGTV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/hvzlnm9icseznjl/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?hgtv%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/b1na5fyhm1ix1w1/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?outdoor%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/jdgyhrwndsneynk866su9/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?animal%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=s900rcsyv4l51kao9n3h6iy5d%20
+#EXTINF:0,Discovery
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/3dfnjxi7y2o6a42w1dtjd/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?discovery%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=g4r88ck9kaz8y30zje9x88og7%20
+#EXTINF:0,Discovery Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/ux2g4cq9wa5lzbndc7xg8/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?discoveryasia%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=nvln1dnwps7g20l8ici3lseqe%20
+#EXTINF:0,Dmax
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/nj76mslj7e2w76q/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?dmax%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8%20
+#EXTINF:0,Nasa TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8%20
+#EXTINF:0,Rakuten TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/guvj3v53fz9f3rnwnnc8p/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?rakuten%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=c9gr37t58d336zjlal9kookx1%20
+#EXTINF:0,Midnite ¹⁸⁺
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/jaoc6ag8c8ku3au/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?midnite%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Kaloopy ¹⁸⁺
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/koiq1049gt89pg5/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?kaloopy%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,S•
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://gg.gg/shttps?=dl.dropboxusercontent.com/s/am1r2x9niomujs356jdxs/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?%E2%9C%B0%E2%9C%AA%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=srlm84o8f38gqalqi8mqznjt2%20
+#EXTINF:0,Fashion TV ⁴ᵏ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8%20
+#EXTINF:0,Love Nature ⁴ᵏ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8%20
+#EXTINF:0,BOX Movie¹
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/9vu6o9ukcwacdefrvn578/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?boxmovie1%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=bmru35pswmhyd3vnxjih47uh3%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,HLW Classics
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/rxdoys0n7vq4vb9r98ody/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?hollywoodclassics%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=9r8h2nmkv4hcrdaofxd6k6lsb%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Planet Earth
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/cpgsap36mjuz5g3alipgm/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?planetearth%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=ad515iwnrigxyq634emj5xncd%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Happy Kids
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/x08buwgjzg671u4w9zs7j/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?happykids%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=qdv5fkevf7l758fu273f4s8y2%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Music Box
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/ccaoar2sa7j77yfat3hqa/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?boxmusic%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=tldonjjihp1dt5hzmrahgpj6b%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Dr. Fit
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/16yg9ec6hzma118rg2mjm/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?drfit%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=gjveqalcyl4bioy87s25mr988%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Woman
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://coca.dl.dropboxusercontent.com/s/5hdm9z8jahoit7npk1771/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?woman%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=rvvdwxkf0v6uf6goqg73m3igu%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Man
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/manshttps?//coca=dl.dropboxusercontent.com/s/s35gb91bxljlldo/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?man%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,BOX
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/boxshttps?//coca=dl.dropboxusercontent.com/s/vb05w85t4tu7wed/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?box%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,BOX Hits
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://gg.gg/hitshttps?//coca=dl.dropboxusercontent.com/s/67k1qz14740vl5u/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?boxhits%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,Kids TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8%20
+#EXTINF:0,EBS Kids
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+#EXTINF:0,PBS Kids
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:0,Zoomoo Kids
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/ddvqp0lkljlijzioz2sw2/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?zoomoo%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=5zrbsrgbplu1rjzpaxlvppf70%20
+#EXTINF:0,Discovery Kids
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/seiyzarxzrekeydn846mvr/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?discoverykids%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=yi09s066uqaz1nu5po6ewb4n1%20
+#EXTINF:0,Da Vinci 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/2ccayp82uqk4ku2/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?da-vinci%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,TVB •Việt
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8%20
+#EXTINF:0,Animax
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/1uq9pip31ep5anxyoyt53/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?animax%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=h7rzkj26q9rxsrsc4kx74tpf4%20
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/1sxnfrgs6ej4orut4ngtt/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cartoonito%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=kxmsnpqslno5whiubb3zbpsmo%20
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/v0wve797m9zy49luhutuz/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cartoonnetwork%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=fal5zg1l7n99lzva95gaeowbx%20
+#EXTINF:0,ABC News
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8%20
+#EXTINF:0,BBC News
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/widch5gapvrqxsazzmvzg/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?bbcnews%20%09%09%09%09%09%09%09%09%09%09%20%09%09%20&rlkey=suoqlkxb95q7dreghbs9a46vk%20
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/jitz4hveqxm9pfsgeyz4d/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?bloomberg%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=xsgf4hl9xxmsq9n8kim18v49w%20
+#EXTINF:0,CNBC
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8%20
+#EXTINF:0,CNA
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8%20
+#EXTINF:0,CNN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8%20
+#EXTINF:0,DW
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8%20
+#EXTINF:0,France 24
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/x7wjkooeybpgxh483a2d3/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?france24%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=yqqetvprq445iugvesn6oj0n2%20
+#EXTINF:0,TV5 Monde Asie
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 
+https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0,TRT World
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8%20
+#EXTINF:0,OAN
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
+#EXTINF:0,OAN+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-plus/c3a44610-0c0b-4834-91d6-957a9f4b9c7b/0.m3u8%20
+#EXTINF:0,MTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/4u3iip044fh2vwj/%20%20%20%20%20%09%09%09%09%09%20%20%20%20%E3%85%A4%20%20%20%20%20
+#EXTINF:0,V2 Beat
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://abr.de1se01.v2beat.live/playlist.m3u8%20
+#EXTINF:0,1 Music
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+http://hz1.teleport.cc/HLS/HD.m3u8%20
+#EXTINF:0,Pladio
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/pnvnebtx8w5um95g62l0z/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?pladio%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=tazy6fk1gkaxd5v66jso35yh5%20
+#EXTINF:0,JoyFM
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/dsr645dkgy3rkxek2v1ct/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?joyfm%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=s9dh9k6kav6nbuc56wojgde2s%20
+#EXTINF:0,Giao thông Hà Nội
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist.m3u8%20
+#EXTINF:0,Giao thông  TP. HCM
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist.m3u8%20
+#EXTINF:0,XoneFM
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8%20
+#EXTINF:0,FM 99.9Mhz
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8%20
+#EXTINF:0,FM 95.6Mhz
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8%20
+#EXTINF:0,FM 87.7Mhz
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8%20
+#EXTINF:0,AM 610Khz
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg" - On Air
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-zn-11-tf-multi-playlist-zmp3.zadn.vn/HZQveZhPc-8/zhls/playback-realtime/very-low/a07d79b945fcaca2f5ed/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg" - Chạm
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-zn-14-tf-multi-playlist-zmp3.zadn.vn/Ok1SSsyycZY/zhls/playback-realtime/very-low/db68d4afe8ea01b458fb/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg" - V-Pop
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-zn-2-tf-multi-playlist-zmp3.zadn.vn/8t3wW77ohJw/zhls/playback-realtime/very-low/6eeb692c5569bc37e578/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg" - Acoustic
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-vn-2-tf-multi-playlist-zmp3.zadn.vn/9gnQ7EMlRVA/zhls/playback-realtime/very-low/08aae96dd5283c766539/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg" - Bolero
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-zn-1-tf-multi-playlist-zmp3.zadn.vn/oIWL6uZPN04/zhls/playback-realtime/very-low/e3b9f87ec43b2d65742a/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg" - Rap Việt
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-pt-2-tf-multi-playlist-zmp3.zadn.vn/JIQ2n2AIW_Q/zhls/playback-realtime/very-low/4f2980eebcab55f50cba/very-low.m3u8
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg" - K-Pop 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-vn-2-tf-multi-playlist-zmp3.zadn.vn/LLZ37qgDO-o/zhls/playback-realtime/very-low/ff294ded71a898f6c1b9/very-low.m3u8%20
+#EXTINF:0, group-title="📻 Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg" - Âu Mỹ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://vnno-zn-12-tf-multi-playlist-zmp3.zadn.vn/IOohJIUxDcs/zhls/playback-realtime/very-low/111c87d8bb9d52c30b8c/very-low.m3u8%20
+#EXTINF:0,Việt Nam
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/4q7y9hvkp2zuv%20
+#EXTINF:0,Cải Lương
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/0trm6wrnga0uv%20
+#EXTINF:0,DJ
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://stream.zeno.fm/ehbutdfccm0uv
+#EXTINF:0,Phật Giáo
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/8456uy0bcm0uv%20
+#EXTINF:0,Dân Ca
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/a2dbs2tq1p8uv%20
+#EXTINF:0,Nhạc Xuân
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/hvtxgd85rm0uv%20
+#EXTINF:0,Acoustic Cover
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://stream.zeno.fm/tk8atfbgtg8uv%20
+#EXTINF:0,Billard TV
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/4127a852-d384-4351-b003-29bfa8882ccf/4.m3u8
+#EXTINF:0,ㅤ     
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/jws20e6jtznf01kah0kfc/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%C2%B9%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=c9futtlcobb3ebtxbwvnkpcc1%20
+#EXTINF:0, ㅤ   
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/hg4xmulweys7gcg5gs26d/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%C2%B2%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=mw3oe6773wgyuzplf21puayaj%20
+#EXTINF:0,  ㅤ  
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/s9r3hqtnz7rp5f299sxc5/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%C2%B3%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=4rzfnz9hb3jybsu9udjncn2u5%20
+#EXTINF:0,   ㅤ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/j9at2rupz8z7vlzz0r8nd/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%E2%81%B4%20%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=9oanj4n0vb4ri33r2avlmmgbw%20
+#EXTINF:0,    ㅤ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/hj3kk4xli818udomxnpao/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%E2%81%B5%20%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=9aqmtnanoefh2rqc0y08s9a15%20
+#EXTINF:0,     ㅤ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/ujer6vhdeuh6cdworn6xc/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%E2%81%B6%20%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=ewihgz1xxp1hvxe9rnfo9mwxf%20
+#EXTINF:0,      ㅤ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/m2jokho0xzgewrlfzx0et/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%E2%81%B7%20%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=953mm9f6eyp65fimfjl9w1jgz%20
+#EXTINF:0,       ㅤ
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https:///dl.dropboxusercontent.com/s/fcmbcvu339kcrtrhhzpgb/%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%20%E3%85%A4?%E2%81%B8%20%20%09%20%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=pgs0p6bs8i8ynsw1jd3jwlc6n%20
+#EXTINF:0,Tennis Channel
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8%20
+#EXTINF:0,Fight Network
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8%20
+#EXTINF:0,Edge Sport
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8%20
+#EXTINF:0,RedBull
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8%20
+#EXTINF:0,Racing
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8%20
+#EXTINF:0,CCTV5
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/oxnohce9kclgmsh4yeh9k/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cctv5%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=thde9gpuln9bmt5vvt950qmp4%20
+#EXTINF:0,CCTV5+
+#EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/vfmbmg0revmfa8jciuiez/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?cctv5+%20%20%20%20%20%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=tatob0645y2rp3eoduyw0zdxa%20
+#EXTINF:0,ㅤ  
+#EXTVLCOPT:http-user-agent=Edge/107.0.1418.24 
+https://idol.dl.dropboxusercontent.com/s/4vt5u7trlf2v78uf9853f/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4%09?%E2%8A%99%E2%8A%99%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=w6p1jjrskv1k06c4e3o8biqs8%20
+#EXTINF:0,SPOTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/yfghg1o9w335m4a5zo249/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?spotv%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=94nxbt8c2r1mmvaf3ew7ry2tc
+#EXTINF:0,SPOTV2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referer=https://sctvonline.vn/ 
+https://coca.dl.dropboxusercontent.com/s/7s3eh9w2ovk2pdzm9xnsf/%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?spotv2%20%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=kwg41jk19cjmzd8egzqd9bwjx
+#EXTINF:0,Sports Stars 3
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/TiviMate/4.6.1 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ 
+http://phaptx5.x10.mx/Tam%20ngung%20phuc%20vu%20bang%20thong%20cho%20AE%20list%20donate,%20AE%20co%20nhu%20cau%20ib%20telegram%20:%20https://t.me/yanbyl%20%EF%BB%BF
+#EXTINF:0,﻿#EXTM3U
+http://phaptx5.x10.mx/%EF%BB%BF
+#EXTINF:0,SkySports_MainEventUHD
+https://7pal.short.gy/SSMEuhd
+#EXTINF:0,AstroSuperSportUHD
+https://7pal.short.gy/astrouhd
+#EXTINF:0,beIN4k
+https://7pal.short.gy/bein-uhd
+#EXTINF:0,NowSports1-4k
+https://7pal.short.gy/nowsport4k
+#EXTINF:0,HUBPremier2UHD
+https://7pal.short.gy/HubP2uhd
+#EXTINF:0,VSportUltraHD
+https://7pal.short.gy/VSportUHD
+#EXTINF:0,TNTSport_Ultimate-4K_HDR
+https://7pal.short.gy/TNTUltimate
+#EXTINF:0,Digi4K
+https://7pal.short.gy/digi4k
+#EXTINF:0,ElevenSport1-4K
+https://7pal.short.gy/11sports1
+#EXTINF:0,5Sport4K
+https://7pal.short.gy/5sport
+#EXTINF:0,SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:0,SkySport_BundesligaUHD.de
+https://7pal.short.gy/ssblgde
+#EXTINF:0,EuroSport4K 
+https://7pal.short.gy/eusport4k
+#EXTINF:0,M+LaLigaUHD.es
+https://7pal.short.gy/mplusuhd
+#EXTINF:0,NESN_UHD
+https://7pal.short.gy/nesnuhd
+#EXTINF:0, TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:0, TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:0, TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:0, TNTSports4-FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:0, SkySports_MainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:0, SkySports_PremierLeague-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:0, SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:0, SkySports_F1-FHD
+https://7pal.short.gy/ssportsf1
+#EXTINF:0, SkySports+FHD
+https://7pal.short.gy/ssportplus
+#EXTINF:0, SkySports_Tennis-FHD
+https://7pal.short.gy/ssportstn
+#EXTINF:0, SkySports_Golf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:0, SkySports_News-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:0, SkySports_Action-FHD
+https://7pal.short.gy/ssportsat
+#EXTINF:0, SkySports_BoxOffice
+https://7pal.short.gy/ssportsbo
+#EXTINF:0, Eurosport1_UK
+https://7pal.short.gy/eusport1
+#EXTINF:0, Eurosport2_UK
+https://7pal.short.gy/eusport2
+#EXTINF:0, PremierSports1-FHD
+https://7pal.short.gy/prsport1
+#EXTINF:0, PremierSports2-FHD
+https://7pal.short.gy/prsport2
+#EXTINF:0, HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:0, HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:0, HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+#EXTINF:0, USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:0, NowSports_PremierLeague1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:0, NowSports_PremierLeague2-FHD
+https://7pal.short.gy/nowhkp2
+#EXTINF:0, NowSports_PremierLeague3-FHD
+https://7pal.short.gy/nowhkp3
+#EXTINF:0, SkySport1_NZ-FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:0, SkySport2_NZ-FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:0, SkySport3_NZ-FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:0, SkySport4_NZ-FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:0, SkySport6_NZ-FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:0, SkySport7_NZ-FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:0, SkySport8-PremierLeague_NZ-FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:0, Fox502_AU-FHD
+https://7pal.short.gy/fox502au
+#EXTINF:0, Fox503_AU-FHD
+https://7pal.short.gy/fox503au
+#EXTINF:0, Astro_Supersport1_MY-FHD
+https://7pal.short.gy/astross1
+#EXTINF:0, Astro_Supersport2_MY-FHD
+https://7pal.short.gy/astross2
+#EXTINF:0, Astro_Supersport3_MY-FHD
+https://7pal.short.gy/astross3
+#EXTINF:0, Astro_Supersport4_MY-FHD
+https://7pal.short.gy/astross4
+#EXTINF:0, Supersport_Premier_League-FHD
+https://7pal.short.gy/spersppl
+#EXTINF:0, Supersport_Football-FHD
+https://7pal.short.gy/sperspfb
+#EXTINF:0, Supersport_Laliga-FHD
+https://7pal.short.gy/sperspllg
+#EXTINF:0, Supersport_PSL-FHD
+https://7pal.short.gy/spersppsl
+#EXTINF:0, Supersport_Motosport-FHD
+https://7pal.short.gy/sperspmts
+#EXTINF:0, Supersport_Action-FHD
+https://7pal.short.gy/sperspat
+#EXTINF:0, Supersport_Rugby-FHD
+https://7pal.short.gy/spersprb
+#EXTINF:0, Supersport_Golf-FHD
+https://7pal.short.gy/sperspgf
+#EXTINF:0, Supersport_Tennis-FHD
+https://7pal.short.gy/spersptns
+#EXTINF:0, Sportsnet ONE
+https://7pal.short.gy/sptsnet1
+#EXTINF:0, Sportsnet 360
+https://7pal.short.gy/sptsnet360
+#EXTINF:0, CBS_Sport_Network
+https://7pal.short.gy/cbssptnw
+#EXTINF:0, USA:MSG
+https://7pal.short.gy/msgusa
+#EXTINF:0, USA:NFL_Network-FHD
+https://7pal.short.gy/nflnw
+#EXTINF:0, USA:ESPN-HD
+https://7pal.short.gy/espnus
+#EXTINF:0, USA:ESPN2-HD
+https://7pal.short.gy/espn2
+#EXTINF:0, USA:WWE_Network
+https://7pal.short.gy/wwenw
+#EXTINF:0, USA:NBA_TV
+https://7pal.short.gy/nbatvus
+#EXTINF:0, USA:MLB_Network
+https://7pal.short.gy/mlbnw
+#EXTINF:0, USA:NHL_Network
+https://7pal.short.gy/nhlnw
+#EXTINF:0, USA:UFC_24/7
+https://7pal.short.gy/ufc247
+#EXTINF:0, Event 1
+https://7pal.short.gy/event1
+#EXTINF:0, Event 2
+https://7pal.short.gy/event2
+#EXTINF:0, Event 3
+https://7pal.short.gy/event3
+#EXTINF:0, Event 4
+https://7pal.short.gy/event4
